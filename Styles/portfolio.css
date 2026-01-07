@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+header{
+    background-color: #FFF8F3;.
+   
+}
+
+nav{
+    width: 71%;
+    max-width: 1140px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
